@@ -52,8 +52,7 @@ Then go to localhost:3000
 * [Moment](https://momentjs.com/)
 * [connect-flash](https://github.com/jaredhanson/connect-flash#connect-flash)
 
-## Platforms
-* [Heroku](https://id.heroku.com/login)
+
 
 ## Authors
 * [Vivek Muskan ](https://github.com/vivek0913)
